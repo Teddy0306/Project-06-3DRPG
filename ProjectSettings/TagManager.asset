@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CinemachineTarget
+  - gun
+  - enemy
+  - death
+  - npc
+  - a
+  - b
   layers:
   - Default
   - TransparentFX
@@ -11,12 +18,12 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - gun
+  - enemy
+  - death
+  - npc
+  - a
+  - b
   - 
   - 
   - 
